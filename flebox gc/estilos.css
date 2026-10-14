@@ -1,0 +1,21 @@
+.menu {
+    display: flex;
+    gap: 20px;
+}
+
+.layout {
+    display: flex;
+    gap: 16px;
+    flex: 1;
+    background-color: #8D5B4C
+}
+
+.lateral {
+    width: 200px;
+    flex: 1;
+    background-color: ;
+}
+
+.contenido {
+    flex: 1;
+}
